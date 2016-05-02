@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Big Brothers Big Sisters of the Bay Area</string>
+		<key>location</key>
+		<string>San Francisco</string>
+		<key>description</key>
+		<string>Our Mission is to provide children facing adversity with strong and enduring, professionally supported 1-to-1 relationships that change their lives for the better...forever.</string>
+		<key>website</key>
+		<string> www.bbbsba.org</string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 6 - 16</string>
+			<string>Male</string>
+			<string>Female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Reach and Rise Mentoring Program</string>
+		<key>location</key>
+		<string>San Francisco</string>
+		<key>description</key>
+		<string>The Reach and Rise mission is to help at-risk youth overcome personal, social, and family challenges through a positive adult-child relationship. Reach and Rise offers 1-to-1 mentoring to at-risk youth in San Francisco/Marin/San Mateo/Alameda counties. We help children develop tools to cope with issues such as low self-esteem, family and peer conflicts, academic underachievement, and decision-making skills. We are unique in that we provide a 15-hour paraprofessional training to all mentors before matching, which prepares them to work successfully with at-risk youth by developing relationship-building skills, exploring issues facing at-risk youth, and strategies to handle difficult situations. Thorough ongoing support is provided by the coordinator who is a Marriage and Family Therapist Intern.</string>
+		<key>website</key>
+		<string> http://www.ymcasf.org/urban/what_we_offer/for_kids/reach_and_rise_program</string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 6 - 18</string>
+			<string>Male</string>
+			<string>Female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>OreMi Mentoring Program</string>
+		<key>location</key>
+		<string>Oakland</string>
+		<key>description</key>
+		<string>FSSBA&apos;s mission is to support children, youth, families, and communities by providing services that make them stronger. The OreMi Mentoring Program serves Alameda County foster youth and children of incarcerated parents by matching them with a one-on-one volunteer mentor.</string>
+		<key>website</key>
+		<string>www.fssba.org</string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 4 - 18</string>
+			<string>male</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>YMCA-PG&amp;E Teen Center</string>
+		<key>location</key>
+		<string>Berkeley</string>
+		<key>description</key>
+		<string>The Y-Scholars Program works with over 200 first-generation college-bound students in grades 9-12 to prepare them to pursue higher education through career exploration and academic achievement. This comprehensive program offers a wide range of free services including weekly college/career workshops, after-school tutoring, and college tours. As well, students are connected with mentors to help increase academic and social support on an individual level. Mentors will attend an orientation to introduce them to program goals and expectations.  As well, monthly trainings and roundtables are offered to support mentors throughout the academic year.</string>
+		<key>website</key>
+		<string>www.ymca-cba.org/teen-center/about </string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 13 - 17</string>
+			<string>male</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mixed Roots Foundation</string>
+		<key>location</key>
+		<string>San Francisco</string>
+		<key>description</key>
+		<string>The Mixed Roots Foundation is a 501(c)(3) nonprofit organization and serves as the first and only national / global multicultural foundationthat cross-sects the international, domestic, and foster care adoption experience. Our vision is to leverage philanthropy and grassroots fundraising to provide important post adoption resources for adoptees and their families.  Our mission is to promote and support organizations that serve as a resource to the diverse adoption and foster care community, create more awareness of the adoption and foster care experience, and inspire future generations of adoptees and foster youth to achieve their dreams and goals through collaboration with likeminded individuals, businesses and organizations in the greater community. The Adoptee Mentor Program (AMP), one of Mixed Roots Foundation’s charter programs, sponsors youth who are adopted and/or in foster care to be matched with adult adoptee mentors that serve as positive role models that promote cultural understanding and self-acceptance of being adopted and/or in foster care as well as participate in educational and multicultural program events and activities.</string>
+		<key>website</key>
+		<string>www.mixedrootsfoundation.org</string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 7 - 17</string>
+			<string>male</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A Home Within</string>
+		<key>location</key>
+		<string>San Francisco</string>
+		<key>description</key>
+		<string>A Home Within seeks to break the cycle of chronic loss experienced by so many foster youth with a simple, scalable model. We believe that every foster child deserves to have a healthy, stable relationship with at least one caring adult.</string>
+		<key>website</key>
+		<string>www.ahomewithin.org </string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>All ages</string>
+			<string>Is or was in foster care system</string>
+			<string>male</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Be A Mentor, Inc.</string>
+		<key>location</key>
+		<string>Hayward</string>
+		<key>description</key>
+		<string>Be A Mentor, Inc. is dedicated to serving the youth population by providing direct mentoring services and technical support to school districts and other youth agencies through our Volunteer Management System. We want to connect interested volunteers to projects to help enhance the educational and social experience for students.</string>
+		<key>website</key>
+		<string> www.beamentor.org </string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 7 - 18</string>
+			<string>male</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Friends for Youth, Inc.</string>
+		<key>location</key>
+		<string>Redwood City</string>
+		<key>description</key>
+		<string>Since 1979, Friends for Youth has been dedicated to supporting youth-in-need through quality mentoring by creating and cultivating friendships with adult volunteers, providing opportunities for enrichment and growth, and focusing on ways to help youth achieve their potential.</string>
+		<key>website</key>
+		<string> www.friendsforyouth.org </string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 8 - 17</string>
+			<string>male</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Spark</string>
+		<key>location</key>
+		<string>San Francisco</string>
+		<key>description</key>
+		<string>Spark is a youth empowerment program engaging students with apprenticeships, interactive field trips, and personal development. Spark&apos;s mission is to inspire middle-school youth to pursue their interests, create bonds with their communities, and develop a lifelong interest in learning. We are always looking for volunteer mentors to work with students as Apprentice Teachers, opening their workplace to students who dream of working in their profession. Spark is offered as both a full-day summer program and a twice-weekly after-school program for middle-school youth in Redwood City and San Francisco.</string>
+		<key>website</key>
+		<string> www.sparkprogram.org </string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 12 - 13</string>
+			<string>male</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>California Partnership Academies</string>
+		<key>location</key>
+		<string>Belmont</string>
+		<key>description</key>
+		<string>The Partnership Academy Model is a carefully designed and evaluated small learning community with a close working partnership between a high school and local business community; a school-within-a-school in which students in 10th-12th grade take on classes (English, science, social studies, Career Tech Ed) that are for Academy students only; voluntary enrollment by student with parental permission, integrated curriculum with Academy teachers having a common planning period; development of occupational skills needed by employers through a mentor program with 11th grade students matched with a volunteer committed to 2-4 hours each month; and additional motivational activities with local community and employer involvement. </string>
+		<key>website</key>
+		<string>http://carlmonths.org/</string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 15 - 16</string>
+			<string>male</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fresh Lifelines for Youth (FLY)</string>
+		<key>location</key>
+		<string>Milpitas</string>
+		<key>description</key>
+		<string>FLY&apos;s mission is to prevent juvenile crime and incarceration through mentoring, legal education, and leadership training. FLY provides services to our most at-risk and disadvantaged youth. In our Mentor Program, FLY matches youth who are struggling with drug and/or alcohol addiction with an adult role model that meets with them every week. The mentor helps the youth discover how to solve problems without turning to drugs or alcohol and how to have fun without being high.</string>
+		<key>website</key>
+		<string>www.flyprogram.org</string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 14 - 18</string>
+			<string>male</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Silicon Valley Children&apos;s Fund</string>
+		<key>location</key>
+		<string>San Jose</string>
+		<key>description</key>
+		<string>The Silicon Valley Children’s Fund is committed to improving educational and life outcomes of foster youth through high impact programs and services. We achieve this in collaboration with schools, community organizations, and public agencies. Our vision is that by age 24, foster youth in Silicon Valley are self-reliant. YES (Youth Education Scholars) to Higher Education Program was created because foster youth attend and graduate college at rates far below their peers. The objective is to increase opportunities for post-secondary education for (former) foster youth; to equip them with the tools and support to enter and succeed in school.    </string>
+		<key>website</key>
+		<string>www.svcf.org</string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 18 - 25</string>
+			<string>male</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Million Women Mentors</string>
+		<key>location</key>
+		<string>California</string>
+		<key>description</key>
+		<string>Million Women Mentors supports the engagement of one million Science, Technology, Engineering and Math (STEM) mentors (male and female) to increase the interest and confidence of girls and women to persist and succeed in STEM programs and careers.</string>
+		<key>website</key>
+		<string>www.bemyadvocate.org</string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Ages 0 - 18</string>
+			<string>STEM</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>National CARES</string>
+		<key>location</key>
+		<string>San Francisco</string>
+		<key>description</key>
+		<string>The National CARES Mentoring Movement seeks to dispel that notion by providing young people with role models who will play an active role in helping to shape their development.</string>
+		<key>website</key>
+		<string>www.caresmentoring.org/</string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Black / African American</string>
+			<string>male</string>
+			<string>female</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Let&apos;s Rise</string>
+		<key>location</key>
+		<string>Richmond</string>
+		<key>description</key>
+		<string>Let’s Rise is traditionally a one-to-one mentorship program targeting underrepresented Asian/Pacific Islander youth at Helms Middle School in Richmond, CA. We bring a group of dedicated mentors from UC Berkeley to the Helms campus every Friday afternoon, where we not only provide tutoring and promote the pursuit of higher education, but also serve as emotional and psychological support systems for our mentees. Through academic enrichment, recreational bonding activities, political/community awareness workshops, and long-lasting mentor-mentee relationships, Let’s Rise strives to foster confidence, leadership, empowerment and a sense of identity among the youth that we serve. We strongly hope to achieve a sense of community and family that will last long after our mentees leave the program.</string>
+		<key>website</key>
+		<string>www.ocf.berkeley.edu/~reach/?page_id=21</string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>Middle School</string>
+			<string>male</string>
+			<string>female</string>
+			<string>Asian / Pacific Islanders</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>True Asian Leaders</string>
+		<key>location</key>
+		<string>Berkeley</string>
+		<key>description</key>
+		<string>TAL (True Asian Leaders) is a group youth mentorship program, dedicated to serve and empower high school students in the bay area in the Oakland and Richmond communities. TAL was developed in 1996 as a response to the gang related violence in the two cities. TAL is now at their 7th generation and has dramatically evolved as the program now includes academics in all its endeavors.</string>
+		<key>website</key>
+		<string>www.ocf.berkeley.edu/~reach/?page_id=23</string>
+		<key>type</key>
+		<string>1:1</string>
+		<key>communities</key>
+		<array>
+			<string>High School</string>
+			<string>male</string>
+			<string>female</string>
+			<string>Asian / Pacific Islanders</string>
+		</array>
+	</dict>
+</array>
+</plist>

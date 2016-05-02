@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "158915359C7DB9930728AA7F216D774C499D096A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "158915359C7DB9930728AA7F216D774C499D096A" : 0,
+    "74A460E94E1283F25FDE8B4A27B04193CB179DD5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E27E90B6-32E6-416D-859F-D61C481E5F68",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "158915359C7DB9930728AA7F216D774C499D096A" : "ios-decal-proj4\/",
+    "74A460E94E1283F25FDE8B4A27B04193CB179DD5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "bridges",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "bridges\/bridges.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lillianchou94\/ios-decal-proj4",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "158915359C7DB9930728AA7F216D774C499D096A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lillianchou94\/ios-decal-hw1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74A460E94E1283F25FDE8B4A27B04193CB179DD5"
+    }
+  ]
+}
