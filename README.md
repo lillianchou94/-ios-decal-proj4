@@ -14,8 +14,8 @@ that the organization serves (e.g. gender, age, race / ethnicity, etc.).
 - Mentees have the ability to create a profile as users searching for mentorships.
 - Mentees have the ability to search and filter mentorships that fits user's
 specific needs. 
-- Mentees have the ability to star/favorite specfic mentorships.
-- Mentees and mentorshps have the ability to start chats with each other.
+- Mentees have the ability to star/favorite specific mentorships.
+- Mentees and mentorships have the ability to start chats with each other.
 
 ##Control Flow  
 - Users are initially presented with the login screen where they
@@ -58,6 +58,7 @@ dashboard, and "settings" to configure settings for the user.
 - DashboardView 
 - ChatView 
 - SettingsView
+- ProfileView
 
 ###Controller 
 - LoginViewController 
